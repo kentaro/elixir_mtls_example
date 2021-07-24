@@ -24,3 +24,6 @@ mtls_example-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# Vault
+/secrets
